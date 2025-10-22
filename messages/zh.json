@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "title": "🌖 Dreamly - 用 AI 构建梦想",
+    "description": "世界上最便携的 Vibe Coding 平台，最稳定的 LLM API，以及 AI 应用市场"
+  },
+  "navbar": {
+    "products": "产品",
+    "pricing": "价格",
+    "docs": "文档",
+    "blog": "博客",
+    "signIn": "登录",
+    "getStarted": "立即开始"
+  },
+  "hero": {
+    "title": "Dreamly",
+    "subtitle": "用 AI 构建梦想",
+    "description": "世界上最便携的 Vibe Coding 平台。随时随地，指挥最强大的AI构建产品。",
+    "startCoding": "立即开始编码",
+    "explorePlatform": "探索平台",
+    "features": {
+      "mobileWeb": "移动端 & 网页端",
+      "lightningFast": "闪电般快速",
+      "anywhere": "随时随地"
+    }
+  },
+  "features": {
+    "sectionTitle": "应有尽有",
+    "sectionSubtitle": "三大强大平台协同工作，加速您的 AI 之旅",
+    "vibeCoding": {
+      "title": "Vibe Coding",
+      "subtitle": "随心所欲地编码",
+      "description": "世界上最便携的移动端和网页端编码平台。随时随地编码，指挥最强大的AI构建产品。",
+      "highlights": {
+        "mobile": "移动 & 桌面",
+        "interface": "直观界面",
+        "ai": "AI 驱动",
+        "sync": "云端同步"
+      }
+    },
+    "llmApi": {
+      "title": "LLM API 平台",
+      "subtitle": "最稳定、种类最丰富",
+      "description": "访问世界上最稳定、种类最丰富的 LLM API 平台。从业界领先的可靠性中选择最广泛的模型。",
+      "highlights": {
+        "uptime": "99.9% 可用性",
+        "cdn": "全球 CDN",
+        "models": "50+ 模型",
+        "pricing": "最优价格"
+      }
+    },
+    "marketplace": {
+      "title": "AI 应用市场",
+      "subtitle": "变现你的创意",
+      "description": "推广你的 AI 应用并产生收益。与全球用户建立联系，将你的 AI 创作转化为可持续收入。",
+      "highlights": {
+        "monetization": "轻松变现",
+        "analytics": "分析仪表板",
+        "featured": "精选应用",
+        "support": "创作者支持"
+      }
+    },
+    "learnMore": "了解更多",
+    "trustedBy": "受到全球开发者和企业的信赖",
+    "getStartedFree": "免费开始使用"
+  },
+  "showcase": {
+    "stats": {
+      "developers": "活跃开发者",
+      "models": "AI 模型",
+      "uptime": "可用性 SLA",
+      "apiCalls": "每日 API 调用"
+    },
+    "lovedBy": "深受创作者喜爱",
+    "lovedBySubtitle": "加入数千名正在用 Dreamly 构建未来的开发者",
+    "useCases": {
+      "prototyping": {
+        "title": "快速原型",
+        "description": "在几分钟而不是几小时内将你的想法变成可工作的原型。我们的 AI 理解上下文并帮助你更快地编码。"
+      },
+      "collaboration": {
+        "title": "团队协作",
+        "description": "通过实时同步和 AI 驱动的代码审查无缝协作。非常适合远程团队。"
+      }
+    },
+    "cta": {
+      "title": "准备好开始构建了吗？",
+      "subtitle": "今天就加入 DreamlyLabs，体验 AI 驱动开发的未来",
+      "button": "开始免费试用",
+      "notice": "无需信用卡 • 永久免费计划"
+    }
+  },
+  "footer": {
+    "tagline": "用 AI 构建梦想。随时随地编码。",
+    "product": {
+      "title": "产品",
+      "vibeCoding": "Vibe Coding",
+      "llmApi": "LLM API",
+      "marketplace": "应用市场",
+      "pricing": "价格",
+      "enterprise": "企业版"
+    },
+    "resources": {
+      "title": "资源",
+      "documentation": "文档",
+      "apiReference": "API 参考",
+      "tutorials": "教程",
+      "blog": "博客",
+      "community": "社区"
+    },
+    "company": {
+      "title": "公司",
+      "about": "关于我们",
+      "careers": "招聘",
+      "pressKit": "媒体资料",
+      "contact": "联系我们",
+      "partners": "合作伙伴"
+    },
+    "legal": {
+      "title": "法律",
+      "privacy": "隐私政策",
+      "terms": "服务条款",
+      "cookies": "Cookie 政策",
+      "security": "安全"
+    },
+    "copyright": "DreamlyLabs. 保留所有权利。",
+    "links": {
+      "privacy": "隐私",
+      "terms": "条款",
+      "cookies": "Cookies"
+    }
+  }
+}

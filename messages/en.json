@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "title": "🌖 Dreamly - Build Dreams with AI",
+    "description": "World's most convenient Vibe Coding platform, stable LLM API, and AI marketplace"
+  },
+  "navbar": {
+    "products": "Products",
+    "pricing": "Pricing",
+    "docs": "Docs",
+    "blog": "Blog",
+    "signIn": "Sign In",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "title": "Dreamly",
+    "subtitle": "Build Dreams with AI",
+    "description": "The world's most convenient Vibe Coding platform. Code anywhere, anytime with powerful AI assistance.",
+    "startCoding": "Start Coding Now",
+    "explorePlatform": "Explore Platform",
+    "features": {
+      "mobileWeb": "Mobile & Web",
+      "lightningFast": "Lightning Fast",
+      "anywhere": "Anywhere, Anytime"
+    }
+  },
+  "features": {
+    "sectionTitle": "Everything You Need",
+    "sectionSubtitle": "Three powerful platforms working together to accelerate your AI journey",
+    "vibeCoding": {
+      "title": "Vibe Coding",
+      "subtitle": "Code with the Flow",
+      "description": "The world's most convenient mobile and web coding platform. Code anywhere, anytime, with powerful AI assistance that understands your intent.",
+      "highlights": {
+        "mobile": "Mobile & Desktop",
+        "interface": "Intuitive Interface",
+        "ai": "AI-Powered",
+        "sync": "Cloud Sync"
+      }
+    },
+    "llmApi": {
+      "title": "LLM API Platform",
+      "subtitle": "Most Stable & Diverse",
+      "description": "Access the world's most stable and diverse LLM API platform. Choose from the widest variety of models with industry-leading reliability.",
+      "highlights": {
+        "uptime": "99.9% Uptime",
+        "cdn": "Global CDN",
+        "models": "50+ Models",
+        "pricing": "Best Pricing"
+      }
+    },
+    "marketplace": {
+      "title": "AI Marketplace",
+      "subtitle": "Monetize Your Ideas",
+      "description": "Promote your AI applications and generate revenue. Connect with users worldwide and turn your AI creations into sustainable income.",
+      "highlights": {
+        "monetization": "Easy Monetization",
+        "analytics": "Analytics Dashboard",
+        "featured": "Featured Apps",
+        "support": "Creator Support"
+      }
+    },
+    "learnMore": "Learn More",
+    "trustedBy": "Trusted by developers and companies worldwide",
+    "getStartedFree": "Get Started for Free"
+  },
+  "showcase": {
+    "stats": {
+      "developers": "Active Developers",
+      "models": "AI Models",
+      "uptime": "Uptime SLA",
+      "apiCalls": "API Calls/Day"
+    },
+    "lovedBy": "Loved by Creators",
+    "lovedBySubtitle": "Join thousands of developers building the future with Dreamly",
+    "useCases": {
+      "prototyping": {
+        "title": "Rapid Prototyping",
+        "description": "Turn your ideas into working prototypes in minutes, not hours. Our AI understands context and helps you code faster."
+      },
+      "collaboration": {
+        "title": "Team Collaboration",
+        "description": "Work together seamlessly with real-time sync and AI-powered code review. Perfect for remote teams."
+      }
+    },
+    "cta": {
+      "title": "Ready to Start Building?",
+      "subtitle": "Join DreamlyLabs today and experience the future of AI-powered development",
+      "button": "Start Free Trial",
+      "notice": "No credit card required • Free forever plan available"
+    }
+  },
+  "footer": {
+    "tagline": "Build dreams with AI. Code anywhere, anytime.",
+    "product": {
+      "title": "Product",
+      "vibeCoding": "Vibe Coding",
+      "llmApi": "LLM API",
+      "marketplace": "Marketplace",
+      "pricing": "Pricing",
+      "enterprise": "Enterprise"
+    },
+    "resources": {
+      "title": "Resources",
+      "documentation": "Documentation",
+      "apiReference": "API Reference",
+      "tutorials": "Tutorials",
+      "blog": "Blog",
+      "community": "Community"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "careers": "Careers",
+      "pressKit": "Press Kit",
+      "contact": "Contact",
+      "partners": "Partners"
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy",
+      "security": "Security"
+    },
+    "copyright": "DreamlyLabs. All rights reserved.",
+    "links": {
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "cookies": "Cookies"
+    }
+  }
+}
