@@ -25,8 +25,8 @@ export default function Showcase() {
     },
     {
       titleKey: 'collaboration',
-      icon: '🤝',
-      color: 'from-green-400 to-blue-500'
+      icon: '💰',
+      color: 'from-green-400 to-emerald-500'
     }
   ];
 
