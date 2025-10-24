@@ -6,6 +6,20 @@ import { useTranslations } from 'next-intl';
 export default function Hero() {
   const t = useTranslations('hero');
 
+  // Helper function to handle navigation in embedded mode
+  const handleNavigation = (url: string) => {
+    const urlParams = new URLSearchParams(window.location.search);
+    const isEmbedded = urlParams.get('hideNav') === 'true';
+
+    if (isEmbedded) {
+      // If embedded, navigate parent window
+      window.top!.location.href = url;
+    } else {
+      // Normal navigation
+      window.location.href = url;
+    }
+  };
+
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden bg-gradient-to-br from-gray-50 via-white to-primary-50 dark:from-gray-950 dark:via-gray-900 dark:to-gray-800">
       {/* Animated Background Elements */}
@@ -95,7 +109,7 @@ export default function Hero() {
               className="px-8 py-4 bg-gradient-to-r from-primary-500 to-primary-600 hover:from-primary-600 hover:to-primary-700 text-white rounded-full font-semibold text-lg shadow-lg shadow-primary-500/30 transition-all duration-300"
               whileHover={{ scale: 1.05, boxShadow: "0 20px 40px rgba(240, 114, 32, 0.4)" }}
               whileTap={{ scale: 0.95 }}
-              onClick={() => window.location.href = 'https://www.dreamly.space/console/chat/0'}
+              onClick={() => handleNavigation('https://www.dreamly.space/console/chat/0')}
             >
               {t('startCoding')}
             </motion.button>
@@ -103,7 +117,7 @@ export default function Hero() {
               className="px-8 py-4 bg-white dark:bg-gray-800 text-gray-900 dark:text-white rounded-full font-semibold text-lg shadow-lg hover:shadow-xl transition-all duration-300 border border-gray-200 dark:border-gray-700"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              onClick={() => window.location.href = 'https://www.dreamly.space/pricing'}
+              onClick={() => handleNavigation('https://www.dreamly.space/pricing')}
             >
               {t('explorePlatform')}
             </motion.button>
